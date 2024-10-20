@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+}
+
+.knowledge-map-heading {
+  position: absolute; /* Positioning the heading absolutely */
+  top: 10px; /* Distance from the top */
+  left: 10px; /* Distance from the left */
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  animation: slideIn 2s ease-out forwards;
+  opacity: 0; /* Set initial opacity to 0 */
+  background-color: transparent; /* Ensure no background is applied */
+  pointer-events: none; /* Allow interaction with elements behind the text */
+  z-index: 10;
+}
+
+/* Keyframes for slide-in and fade-in animation */
+@keyframes slideIn {
+  0% {
+    transform: translateY(-50px); /* Start 50px above the final position */
+    opacity: 0; /* Start with invisible */
+  }
+  100% {
+    transform: translateY(0); /* End at the original position */
+    opacity: 1; /* Fully visible */
+  }
+}
+
+/* Additional styles for the graph container */
+.graph-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.graph svg {
+  position: relative;
+  z-index: 1;
+}
