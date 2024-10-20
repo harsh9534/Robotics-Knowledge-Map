@@ -37,8 +37,8 @@ Follow these steps to set up the Robotics Knowledge Map project:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd robotics-knowledge-map
+   git clone [<repository-url>](https://github.com/harsh9534/Robotics-Knowledge-Map.git)
+   cd Robotics-Knowledge-Map
    ```
 
 2. **Install Dependencies**
@@ -57,7 +57,7 @@ Follow these steps to set up the Robotics Knowledge Map project:
    ```bash
    npm install d3
    npm install particles.js
-   npm install @fortawesome/fontawesome-free
+   npm install fa-icons
    ```
 
 4. **Start the Development Server**
