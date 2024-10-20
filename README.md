@@ -1,12 +1,18 @@
 # Robotics Knowledge Map
 
 Robotics Knowledge Map is an interactive graphical tool designed to visually represent various robotics courses and their associated subjects. It provides a comprehensive learning experience by displaying courses as parent nodes and their related subjects as child nodes. The user can click and drag the nodes to explore connections and relationships between topics. When a node is selected, a card appears, offering a brief introduction to the topic, providing a more detailed learning experience.
-<img width="1469" alt="Screenshot 2024-10-21 at 2 18 05 AM" src="https://github.com/user-attachments/assets/5d1c0d2e-30dd-4277-96f9-a0d04eac63f0">
 
-<img width="1470" alt="Screenshot 2024-10-21 at 2 19 12 AM" src="https://github.com/user-attachments/assets/dae85825-8e41-4a13-adc2-63a5ba27933e">
+Landing Page
 
+<img width="1710" alt="Screenshot 2024-10-21 at 2 49 44 AM" src="https://github.com/user-attachments/assets/00fc95c5-5797-4b03-a960-e81285f0ced0">
 
-<img width="1460" alt="Screenshot 2024-10-21 at 2 19 41 AM" src="https://github.com/user-attachments/assets/8d17825b-7e5b-45d4-8333-fecd7f50a630">
+Homepage
+
+<img width="1710" alt="Screenshot 2024-10-21 at 2 50 21 AM" src="https://github.com/user-attachments/assets/c98563f3-487a-4bc6-9658-2f82929ca025">
+
+Info Card
+
+<img width="1704" alt="Screenshot 2024-10-21 at 2 50 52 AM" src="https://github.com/user-attachments/assets/8c6f8cd9-0e46-4386-bc46-f61a000c91fb">
 
 ## Features
 
